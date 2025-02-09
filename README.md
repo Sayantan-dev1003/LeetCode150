@@ -28,6 +28,6 @@ Welcome to the **150 Days LeetCode Challenge**! 🚀 This repository contains my
 2. Navigate to the desired day's file.
 3. Open the solution file and run it in your preferred coding environment.
 
-##🤝 Contributing
+## 🤝 Contributing
 Feel free to fork the repo and contribute by submitting alternative solutions, optimization suggestions, or better explanations.
 
